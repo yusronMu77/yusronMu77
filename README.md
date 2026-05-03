@@ -56,8 +56,12 @@ I've worked across the full spectrum — from **Embedded Systems & Firmware** al
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yusron--m-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusron-m-126515113/)
-[![Email](https://img.shields.io/badge/Email-muchammad.yusron.muttaqin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muchammad.yusron.muttaqin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yusronmuttaqin0217@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yusronmuttaqin0217@gmail.com)
 
 ---
 
 *"Able to design, build, and operate a complete product stack — from hardware to cloud."*
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusronMu77&show_icons=true&theme=default&hide_border=true)
